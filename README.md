@@ -1,2 +1,2 @@
 # ingMedium-nifi-customProcessor
-Thir repository include custom Apache Nifi processor.
+This repository includes a custom Apache Nifi processor.
